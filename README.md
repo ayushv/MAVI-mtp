@@ -22,7 +22,8 @@
 - tensorflow and mobilenetssd model 
 
 ### Run:
-``` python coex.py switch ```
+- Edit input in coex.py
+- ``` python coex.py switch ```
 - switch : 
   - 1  -face 
   - 2 -animal
